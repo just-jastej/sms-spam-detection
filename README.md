@@ -1,0 +1,1 @@
+This project implementas machine leanring which is used to classify mesages into spam and non-spam messages with use of Python. The dataset, sourced from Kagglle, was preprocessed with help of libraries like NumPy, Panda. The data analysis ﻿was done in jupyter notebook and after anaylsysis we chosed IS NAIVEBIASED.
